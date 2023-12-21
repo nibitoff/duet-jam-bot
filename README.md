@@ -1,0 +1,1 @@
+Telegram Bot based on Yandex Cloud services (YDB, Cloud Functions, Object Storage).
